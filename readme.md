@@ -1,3 +1,12 @@
+##EnterConnection
+
+Eduardo Ferreira Silva de Jesus - rm98410 - 2TDSPN
+Enrico do Nascimento Ferreira Galdino - rm552082 - 2TDSPH
+Fabio de Oliveira Targa - rm551328 - 2TDSPM
+Luis Felipe do Santos Tragl - rm99476 - 2TDSA
+Vinicius Durce Carlini - rm550427 - 2TDSPM
+
+
 # Sprint4PlusSoft Company Analysis API
 
 **Sprint4PlusSoft** é uma API .NET desenvolvida para analisar a rentabilidade de empresas usando machine learning. A API permite criar relatórios de empresas, prever a rentabilidade com base em dados históricos e calcular automaticamente um indicador de rentabilidade (`Label`) usando critérios específicos.
