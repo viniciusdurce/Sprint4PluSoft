@@ -45,7 +45,7 @@ cd Sprint4PlusSoft
 ```
 {
 "ConnectionStrings": {
-"MongoDB": "mongodb://localhost:27017/CompanyReports"
+"MongoDB": "mongodb://localhost:27017/Plusoft"
 }
 }
 ```
